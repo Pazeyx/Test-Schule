@@ -1,2 +1,3 @@
 # Test-Schule
-Erstes Test Programm
+
+Console.Writeline("Hallo");
